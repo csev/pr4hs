@@ -6,7 +6,7 @@ require_once "../../top.php";
 require_once "../../nav.php";
 ?>
 <div id="container">
-<img src="drums-2089829_640.jpg" style="float:right; width: 40%;">
+<img src="macbook-926558_640.jpg" style="float:right; width: 40%;">
 <h1>Python for Everybody</h1>
 <p>
 Stuff would go here...
