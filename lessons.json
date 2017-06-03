@@ -1,0 +1,18 @@
+{
+"title": "Python for Everybody (PY4E)",
+"description" : "Hello and welcome to my site where you learn Python even if you have no programming background.",
+"modules": [
+{ 
+    "title": "Programming for High School",
+    "anchor": "install",
+    "icon" : "fa-bicycle",
+    "description": "This is just a skeleton site.",
+    "references" : [
+        {
+            "title" : "PowerPoint Presentation",
+            "href" : "high_school_01.pptx"
+        }
+    ]
+}
+]
+}
