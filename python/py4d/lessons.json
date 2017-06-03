@@ -1,0 +1,18 @@
+{
+"title": "Python for Data Mining (PY4D)",
+"description" : "Hello and welcome to my site where you learn Python Data Mining even if you have no programming background.",
+"modules": [
+{ 
+    "title": "Python for Data Mining",
+    "anchor": "install",
+    "icon" : "fa-bicycle",
+    "description": "This is just a skeleton site.",
+    "references" : [
+        {
+            "title" : "Web Site",
+            "href" : "https://www.py4e.com"
+        }
+    ]
+}
+]
+}

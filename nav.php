@@ -1,11 +1,21 @@
 <?php
+use \Tsugi\Core\LTIX;
+
 $OUTPUT->bodyStart();
 $R = $CFG->apphome . '/';
 $T = $CFG->wwwroot . '/';
+$F = LTIX::curPageUrlFolder();
 $adminmenu = isset($_COOKIE['adminmenu']) && $_COOKIE['adminmenu'] == "true";
 $set = new \Tsugi\UI\MenuSet();
 $set->setHome($CFG->servicename, $CFG->apphome);
-$set->addLeft('Lessons', $R.'lessons');
+$lessons = getcwd().'/lessons.json';
+if ( file_exists($lessons) ) {
+    $CFG->lessons = $lessons;
+    $set->addLeft('Lessons', $F.'lessons');
+} else {
+    // $set->addLeft('About', $F.'lessons');
+    $CFG->lessons = null;
+}
 if ( isset($_SESSION['id']) ) {
     $set->addLeft('Assignments', $R.'assignments');
     $submenu = new \Tsugi\UI\Menu();

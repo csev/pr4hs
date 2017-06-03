@@ -10,15 +10,16 @@ require_once "nav.php";
 <p>
 This is a sample site to show how Koseu can be used to support a hierarchy of 
 web sites.  It is based on a Programming for High School curriculum that I am toying with.
+(<a href="high_school_01.pptx">PowerPoint</a>).
 </p>
 <p>
 <ul>
 <li><p><a href="python">Python Courses</a></p></li>
-<li><p><a href="wd4e">Web Design Courses</a></p></li>
-<li><p><a href="wa4e">Web Application Courses</a></p></li>
-<li><p><a href="cc4e">C Programming for Everybody</a></p></li>
-<li><p><a href="hw4e">Hardware for Everybody</a></p></li>
-<li><p><a href="apcs">Advanced Placement Computer Science</a></p></li>
+<li><p>Web Design Courses</p></li>
+<li><p>Web Application Courses</p></li>
+<li><p>C Programming for Everybody</p></li>
+<li><p>Hardware for Everybody</p></li>
+<li><p>Advanced Placement Computer Science</p></li>
 </ul>
 </p>
 <p>
