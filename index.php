@@ -23,6 +23,9 @@ web sites.  It is based on a Programming for High School curriculum that I am to
 </ul>
 </p>
 <p>
+This content is in my <a href="https://github.com/csev/pr4hs" target="_blank">
+GitHub repository</a>.
+<p>
 This site uses <a href="http://www.tsugi.org" target="_blank">Koseu/Tsugi</a> 
 framework to embed a learning management system into this site and
 provide the autograders.  
