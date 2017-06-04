@@ -13,6 +13,10 @@ require_once "../nav.php";
 <p>
 Stuff would go here...
 </p>
+<p>
+View this folder in 
+<a href="https://github.com/csev/pr4hs/tree/master/wa4e" target="_blank">GitHub</a>.
+</p>
 <!--
 <?php
 echo(Output::safe_var_dump($_SESSION));
