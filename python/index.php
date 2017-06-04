@@ -10,3 +10,7 @@ Pay close attention to the URLs as you navigate around...
 <li><p><a href="py4e">Python For Everybody</a></p></li>
 <li><p><a href="py4d">Data Mining for Everybody</a></p></li>
 </ul>
+<p>
+View this folder in
+<a href="https://github.com/csev/pr4hs/tree/master/python" target="_blank">GitHub</a>.
+</p>
