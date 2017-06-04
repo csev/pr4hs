@@ -15,6 +15,7 @@ web sites.  It is based on a Programming for High School curriculum that I am to
 <p>
 <ul>
 <li><p><a href="python">Python Courses</a></p></li>
+<li><p><a href="wa4e">Web Applications for Everybody</a></p></li>
 <li><p>Web Design Courses</p></li>
 <li><p>Web Application Courses</p></li>
 <li><p>C Programming for Everybody</p></li>

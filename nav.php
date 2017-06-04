@@ -17,7 +17,6 @@ if ( file_exists($lessons) ) {
     $CFG->lessons = null;
 }
 if ( isset($_SESSION['id']) ) {
-    $set->addLeft('Assignments', $R.'assignments');
     $submenu = new \Tsugi\UI\Menu();
     $submenu->addLink('Profile', $R.'profile');
     if ( isset($CFG->google_map_api_key) ) {

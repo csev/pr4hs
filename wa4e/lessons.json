@@ -1,0 +1,18 @@
+{
+"title": "Web Applications for Everybody (WA4E)",
+"description" : "Hello and welcome to my site where you learn PHP, MySQL, and JacaScript.",
+"modules": [
+{ 
+    "title": "Web Applications for Everybody",
+    "anchor": "install",
+    "icon" : "fa-bicycle",
+    "description": "This is just a skeleton site.",
+    "references" : [
+        {
+            "title" : "Web Site",
+            "href" : "https://www.wa4e.com"
+        }
+    ]
+}
+]
+}
